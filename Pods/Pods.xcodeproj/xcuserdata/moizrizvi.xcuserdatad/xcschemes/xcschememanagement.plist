@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>MBProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Tumblr.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,12 +37,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B2E7E42C92547E531629F4098753F6CF</key>
+		<key>41FA54D12162DAD51D02FC58A2CD5034</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>B77E2636CCAB0EDF52D0EF41E32DD403</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C4AC3C4B50379E74D7E96EDDEE83DECB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

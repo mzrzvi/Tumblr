@@ -7,6 +7,8 @@ target 'Tumblr' do
 
   # Pods for Tumblr
   pod 'AFNetworking'
+  pod 'MBProgressHUD'
+
 
   target 'TumblrTests' do
     inherit! :search_paths
